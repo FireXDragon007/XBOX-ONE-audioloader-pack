@@ -1,0 +1,22 @@
+{
+  "name": "Xbox One Sound Pack",
+  "author": "Dreamersouls",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": false,
+  "ignore": [
+    "bumper_end.wav",
+    "confirmation_negative.wav",
+    "confirmation_positive.wav",
+    "deck_ui_message_toast.wav",
+    "deck_ui_misc_01.wav",
+    "deck_ui_misc_08.wav",
+    "deck_ui_tile_scroll.wav",
+    "deck_ui_switch_toggle_off.wav",
+    "deck_ui_switch_toggle_on.wav",
+    "pop_sound.wav",
+    "steam_chatroom_notification.m4a",
+    "ui_steam_message_old_smooth.m4a"
+  ],
+  "id": "ac9179c2-f0b0-4ee5-b5a1-d6b569a94ze6"
+}
